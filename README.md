@@ -1,6 +1,6 @@
-# Phobos for 1.16
+# Phobos for 1.19
 
-Phobos for 1.16 - Ported Phobos for fabric 1.16. ReadMe thanks to Goztb22  
+MOMIN5 - Ported Phobos to 1.16 Fabric
 3arth(Original Creator) - https://github.com/3arthqu4ke  
 1.12 SRC - https://github.com/Gopro336/CLEAN_Phobos_1.9.0-BUILDABLE-SRC  
 
